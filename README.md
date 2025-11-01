@@ -10,6 +10,12 @@
 
 ## 🔧 Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=.net&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-5B2C6F?style=for-the-badge&logo=.net&logoColor=white)
+![Quartz.NET](https://img.shields.io/badge/Quartz.NET-512BD4?style=for-the-badge&logo=clockify&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -21,9 +27,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
 ---
 
 ## 🛠️ Projects
+
+### 💬 [CollabCode](https://github.com/mhdhsp/CollabCode_Backend)
+- Built a **real-time collaborative code editor** where users can create and join projects.  
+- Implemented **Clean Architecture** and **Repository Pattern** for better maintainability.  
+- Integrated **SignalR** for live code synchronization and chat between users.  
+- Added **role-based access control**, syntax highlighting, and file-sharing features.  
+- Backend built with **ASP.NET Core Web API**, **Entity Framework Core**, and **SQL Server**.  
+- Frontend developed using **React.js** and **Bootstrap** for a responsive interface.  
 
 ### 🛒 [E-Commerce Website](https://github.com/mhdhsp/ecommerce)
 - Built with **React + JSON Server**  
