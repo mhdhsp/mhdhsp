@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammed Suhail P  
+<!-- # 👋 Hi, I'm Muhammed Suhail P  
 
 🚀 **Full Stack Developer** | React • .NET Core • SQL Server  
 
@@ -61,4 +61,101 @@
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-suhail-p-a0061235b)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhailpalakkal1@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhdhsp)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhdhsp)   -->
+
+
+👋 Hi, I'm Muhammed Suhail P
+
+🚀 .NET Full Stack Developer | ASP.NET Core • React.js • SQL Server
+
+💡 Passionate about building scalable and maintainable web applications.
+🎯 Experienced in end-to-end development — from API design to responsive UI.
+🌱 Currently learning Azure Cloud, Microservices, and Clean Architecture to level up backend skills.
+
+🔧 Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🧩 Featured Projects
+💬 CollabCode
+
+A real-time collaborative code editor platform.
+
+Implemented Clean Architecture and Repository Pattern for scalability.
+
+Integrated SignalR for real-time collaboration and chat.
+
+Built role-based access control and syntax highlighting for better UX.
+
+Tech Stack: ASP.NET Core Web API, Entity Framework Core, SQL Server, React.js, Bootstrap
+🔗 Backend Repo
+
+🛒 E-Commerce Platform
+
+A full-stack e-commerce application with secure authentication and admin features.
+
+Built RESTful APIs using ASP.NET Core Web API and Entity Framework.
+
+Developed React.js + Redux frontend with role-based routing and product CRUD.
+
+Integrated JWT authentication and optimized SQL queries for performance.
+
+Tech Stack: ASP.NET Core, React.js, Redux, SQL Server, Bootstrap
+
+💼 Experience
+
+.NET Full Stack Developer – Bridgeon IT Solutions
+📍 Mar 2025 – Present | Manjeri, Malappuram
+
+Developed and integrated RESTful APIs using ASP.NET Core Web API.
+
+Implemented JWT authentication and role-based authorization for security.
+
+Optimized SQL queries and EF Core models for efficient data handling.
+
+Worked in an Agile environment, collaborating via Git and GitHub.
+
+Enhanced application performance and responsiveness, improving UX.
+
+🎓 Education
+
+🎓 Bachelor of Computer Applications (BCA) – Calicut University
+📚 Focus: Programming, Database Management, and Software Development
+
+📊 GitHub Stats
+
+
+
+
+🌍 Connect with Me
+
+
+
+
+
+
