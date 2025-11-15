@@ -39,7 +39,8 @@
 - Integrated **SignalR** for live code synchronization and chat between users.  
 - Added **role-based access control**, syntax highlighting, and file-sharing features.  
 - Backend built with **ASP.NET Core Web API**, **Entity Framework Core**, and **SQL Server**.  
-- Frontend developed using **React.js** and **Bootstrap** for a responsive interface.  
+- Frontend developed using **React.js** and **Bootstrap** for a responsive interface.
+- Live link:https://spectacular-jalebi-743cca.netlify.app/
 
 ### 🛒 [E-Commerce Website](https://github.com/mhdhsp/ecommerce)
 - Built with **React + JSON Server**  
