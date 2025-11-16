@@ -43,11 +43,11 @@
 - Live link:https://spectacular-jalebi-743cca.netlify.app/
 
 ### 🛒 [E-Commerce Website](https://github.com/mhdhsp/ecommerce)
-- Built with **React + JSON Server**  
-- Features: product browsing, search, filtering, cart & order management  
-- Admin panel for product CRUD, user management, and sales tracking  
-- Responsive UI with **Bootstrap** and APIs managed via **Axios**
+-  Developed a full-stack e-commerce platform with **React** frontend and **ASP.NET Core Web API** backend.
+-  Built user and admin panels, integrated JWT authentication, and designed a responsive UI.
+-  Tech Stack: **.NET Core Web API, React.js, Redux, SQL Server, Bootstrap, Axios**
 
+  
 *(More projects coming soon…)*
 
 ---
