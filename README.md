@@ -36,7 +36,7 @@
 ### 💬 [CollabCode](https://github.com/mhdhsp/CollabCode_Backend)
 - Built a **real-time collaborative code editor** where users can create and join projects.  
 - Implemented **Clean Architecture** and **Repository Pattern** for better maintainability.  
-- Integrated **SignalR** for live code synchronization and chat between users.  
+- Integrated **SignalR** for live synchronization and chat between users.  
 - Added **role-based access control**, syntax highlighting, and file-sharing features.  
 - Backend built with **ASP.NET Core Web API**, **Entity Framework Core**, and **SQL Server**.  
 - Frontend developed using **React.js** and **Bootstrap** for a responsive interface.
