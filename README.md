@@ -32,6 +32,13 @@
 
 ## 🛠️ Projects
 
+### [ResourceFlow]
+-Designined a **multi-tenant resource management system** to register and manage company resources with role-based access.
+-Implemented subscription-based limits to control resource usage per company.
+-Build role-based authorization for Super Admin, Company Admin, and Employee using JWT.
+-Developed **bulk resource** creation and centralized validation for better performance and data consistency.
+-Worked on floor-plan visualization with **draggable resource placement** and persistent layout storage.
+
 ### 💬 [CollabCode](https://github.com/mhdhsp/CollabCode_Backend)
 - Built a **real-time collaborative code editor** where users can create and join projects.  
 - Implemented **Clean Architecture** and **Repository Pattern** for better maintainability.  
