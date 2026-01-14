@@ -32,7 +32,7 @@
 
 ## 🛠️ Projects
 
-### [ResourceFlow]
+### 💬 [ResourceFlow]
 -Designined a **multi-tenant resource management system** to register and manage company resources with role-based access.
 -Implemented subscription-based limits to control resource usage per company.
 -Build role-based authorization for Super Admin, Company Admin, and Employee using JWT.
