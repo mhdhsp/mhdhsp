@@ -33,6 +33,15 @@
 
 ## 🛠️ Projects
 
+
+### 🏢 [SmartDesk - Resource Management SaaS](https://github.com/mhdhsp)
+- Developed a **Multi-tenant SaaS application** for managing company resources across different organizations.
+- Designed a complex architecture supporting **Super Admin, Company Admin, and Employee** roles.
+- Implemented **Role-Based Access Control (RBAC)** and subscription-based limit validation.
+- Built interactive **Floor Plan Visualizations** using React and optimized API responses for scalability.
+- **Tech:** ASP.NET Core Web API, React, SQL Server, Clean Architecture, JWT.
+
+
 ### 💬 [CollabCode](https://github.com/mhdhsp/CollabCode_Backend)
 - Built a **real-time collaborative code editor** where users can create and join projects.  
 - Implemented **Clean Architecture** and **Repository Pattern** for better maintainability.  
