@@ -22,7 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,17 +44,18 @@
 ### 💬 [CollabCode](https://github.com/mhdhsp/CollabCode_Backend)
 - Built a **real-time collaborative code editor** where users can create and join projects.  
 - Implemented **Clean Architecture** and **Repository Pattern** for better maintainability.  
-- Integrated **SignalR** for live code synchronization and chat between users.  
+- Integrated **SignalR** for live synchronization and chat between users.  
 - Added **role-based access control**, syntax highlighting, and file-sharing features.  
 - Backend built with **ASP.NET Core Web API**, **Entity Framework Core**, and **SQL Server**.  
-- Frontend developed using **React.js** and **Bootstrap** for a responsive interface.  
+- Frontend developed using **React.js** and **Bootstrap** for a responsive interface.
+- Live link:https://spectacular-jalebi-743cca.netlify.app/
 
 ### 🛒 [E-Commerce Website](https://github.com/mhdhsp/ecommerce)
-- Built with **React + JSON Server**  
-- Features: product browsing, search, filtering, cart & order management  
-- Admin panel for product CRUD, user management, and sales tracking  
-- Responsive UI with **Bootstrap** and APIs managed via **Axios**
+-  Developed a full-stack e-commerce platform with **React** frontend and **ASP.NET Core Web API** backend.
+-  Built user and admin panels, integrated JWT authentication, and designed a responsive UI.
+-  Tech Stack: **.NET Core Web API, React.js, Redux, SQL Server, Bootstrap, Axios**
 
+  
 *(More projects coming soon…)*
 
 ---
